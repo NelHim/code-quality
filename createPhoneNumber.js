@@ -6,7 +6,7 @@
 
 // Don't forget the space after the closing parentheses!
 
-
+ 
 function createPhoneNumber(numbers) {
   const part1 = `(${numbers.slice(0, 3).join("")})`;
   const part2 = `${numbers.slice(3, 6).join("")}`;
