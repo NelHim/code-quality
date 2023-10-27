@@ -1,0 +1,1 @@
+const binaryRepresentation = number => number.toString(2);
